@@ -4,12 +4,12 @@ An intelligent AI-powered resume builder that generates professional, ATS-optimi
 
 ## 🎥 Demo
 
-https://github.com/user-attachments/assets/your-video-id-here
+Watch the full demo video to see all features in action:
 
-> **Note**: Upload your video file `Recording 2025-11-02 162546.mp4` to GitHub by:
-> 1. Going to Issues → New Issue
-> 2. Drag and drop the video into the description
-> 3. Copy the generated URL and replace the URL above
+https://github.com/user-attachments/assets/demo.mp4
+
+> **Video Location**: `assets/demo.mp4`  
+> The demo showcases AI resume generation, template selection, ATS analysis, and PDF download features.
 
 ## ✨ Features
 
