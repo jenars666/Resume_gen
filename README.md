@@ -6,14 +6,9 @@ An intelligent AI-powered resume builder that generates professional, ATS-optimi
 
 Watch the full demo video to see all features in action:
 
-https://github.com/user-attachments/assets/demo.mp4
+https://youtu.be/GetRjcVHWlI
 **📹 To display the video above:**
-1. Go to your GitHub repo → **Issues** → **New Issue**
-2. Drag and drop the video file from: `prompter-to-pro-main/assets/demo.mp4`
-3. Wait for upload to complete
-4. Right-click the video → **Copy video address**
-5. Replace the URL above (line 9) with your copied URL
-6. Commit and push the change
+
 
 **Or download**: [Demo Video (MP4) - 86.8 MB](./prompter-to-pro-main/assets/demo.mp4)
 
@@ -59,14 +54,6 @@ https://github.com/user-attachments/assets/demo.mp4
 **URL**: https://lovable.dev/projects/4305ddbf-4936-4f6d-889b-6b0c815b0e5d
 
 ## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/4305ddbf-4936-4f6d-889b-6b0c815b0e5d) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
