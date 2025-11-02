@@ -6,7 +6,7 @@ An intelligent AI-powered resume builder that generates professional, ATS-optimi
 
 Watch the full demo video to see all features in action:
 
-https://github.com/user-attachments/assets/demo.mp4
+E:\prompter-to-pro-main\prompter-to-pro-main\assets\demo.mp4
 
 > **Video Location**: `assets/demo.mp4`  
 > The demo showcases AI resume generation, template selection, ATS analysis, and PDF download features.
