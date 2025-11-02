@@ -6,10 +6,23 @@ An intelligent AI-powered resume builder that generates professional, ATS-optimi
 
 Watch the full demo video to see all features in action:
 
-E:\prompter-to-pro-main\prompter-to-pro-main\assets\demo.mp4
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/demo.mp4" width="100%" controls>
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+**Or download**: [Demo Video (MP4)](./assets/demo.mp4)
 
 > **Video Location**: `assets/demo.mp4`  
 > The demo showcases AI resume generation, template selection, ATS analysis, and PDF download features.
+> 
+> **To enable video playback on GitHub**:
+> 1. Push your code to GitHub
+> 2. Go to Issues → New Issue
+> 3. Drag and drop `assets/demo.mp4` into the issue description
+> 4. Copy the generated URL (e.g., `https://github.com/user-attachments/assets/abc123...`)
+> 5. Replace the URL in line 9 above with your actual GitHub-hosted URL
 
 ## ✨ Features
 
