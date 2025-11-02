@@ -10,9 +10,8 @@ https://youtu.be/GetRjcVHWlI
 **📹 To display the video above:**
 
 
-**Or download**: [Demo Video (MP4) - 86.8 MB](./prompter-to-pro-main/assets/demo.mp4)
 
-> **Note**: The video file (86.8 MB) is stored with Git LFS. For inline playback on GitHub, you need to upload it via Issues to get a GitHub-hosted URL.
+
 
 ## ✨ Features
 
@@ -49,11 +48,7 @@ https://youtu.be/GetRjcVHWlI
 - Protected routes
 - User session management
 
-## Project info
 
-**URL**: https://lovable.dev/projects/4305ddbf-4936-4f6d-889b-6b0c815b0e5d
-
-## How can I edit this code?
 
 **Use your preferred IDE**
 
@@ -214,27 +209,9 @@ This project is built with:
 - **jsPDF** - PDF generation
 - **html2canvas** - Canvas rendering
 
-## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/4305ddbf-4936-4f6d-889b-6b0c815b0e5d) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
-
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. **Fork the repository**
-2. **Create a feature branch** (`git checkout -b feature/AmazingFeature`)
-3. **Commit your changes** (`git commit -m 'Add some AmazingFeature'`)
-4. **Push to the branch** (`git push origin feature/AmazingFeature`)
-5. **Open a Pull Request**
 
 ### Development Guidelines
 - Follow TypeScript best practices
@@ -243,9 +220,7 @@ Contributions are welcome! Here's how you can help:
 - Write clear commit messages
 - Test your changes thoroughly
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -253,18 +228,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Lucide** - Icon system
 - **Tailwind CSS** - Styling framework
 - **Supabase** - Backend infrastructure
-- **Lovable** - Development platform
 
-## 📧 Contact & Support
 
-- **Project URL**: https://lovable.dev/projects/4305ddbf-4936-4f6d-889b-6b0c815b0e5d
-- **Issues**: [GitHub Issues](https://github.com/yourusername/prompter-to-pro/issues)
-- **Documentation**: See docs folder for detailed guides
 
-## 🌟 Show Your Support
 
-If you find this project helpful, please give it a ⭐️!
+
 
 ---
 
-**Built with ❤️ using AI and modern web technologies**
